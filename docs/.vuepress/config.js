@@ -24,6 +24,6 @@ export default defineUserConfig({
     repo: 'ltyyb/docs',
   }),
   
-
+  base: '/docs/',
   bundler: viteBundler(),
 })
