@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: ./assets/hero.webp
+heroImage: /hero.webp
 actions:
   - text: 查看申请流程
     link: /get-started.html

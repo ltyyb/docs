@@ -10,7 +10,6 @@
 /docs/.vuepress/.temp/
 /.vuepress/cache/
 /docs/.vuepress/cache/
-public/
 
 # Environment files
 .env

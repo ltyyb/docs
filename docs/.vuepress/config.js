@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: `厦门六中同安校区音游部 | 通用文档页`,
 
   theme: defaultTheme({
-    logo: './assets/hero.webp',
+    logo: '/hero.webp',
 
     navbar: [{
       text: '首页',
