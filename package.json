@@ -1,7 +1,7 @@
 {
   "name": "ltyyb-docs",
   "description": "六同音游部通用文档",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -11,10 +11,10 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.20",
-    "@vuepress/theme-default": "2.0.0-rc.88",
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "@vuepress/theme-default": "2.0.0-rc.125",
     "sass-embedded": "^1.86.0",
-    "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.20"
+    "vue": "^3.5.30",
+    "vuepress": "2.0.0-rc.26"
   }
 }

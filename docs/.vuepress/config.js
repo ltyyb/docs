@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: `厦门六中同安校区音游部 | 通用文档页`,
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: './assets/hero.webp',
 
     navbar: [{
       text: '首页',
@@ -18,7 +18,7 @@ export default defineUserConfig({
     {
       text: '基础条约',
       prefix: '/basic/',
-      children: ['Management.md', 'Verify.md'],
+      children: ['Management.md', 'Verify.md', 'Verify-foreign.md'],
     },
     ],
     repo: 'ltyyb/docs',
