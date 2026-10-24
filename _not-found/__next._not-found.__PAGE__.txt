@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/docs/_next/static/chunks/1g-e1no979u0j.js"
+3:"/docs/_next/static/chunks/00yo_fpc5vnfa.js"
+4:"/docs/_next/static/chunks/1thrhe6a0e1ll.js"
+5:"/docs/_next/static/chunks/0ow65itc-517e.js"
+6:"/docs/_next/static/chunks/1b0eollcu1z4b.js"
+7:I[98117,["$2","$3","$4","$5","$6"],"Provider"]
+8:I[97440,["$2","$3","$4","$5","$6"],"default"]
+9:I[52474,["$2","$3","$4","$5","$6"],"default"]
+a:I[27971,["$2","$3","$4","$5","$6"],""]
+11:I[83005,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[83005,["$2","$3","$4","$5","$6"],"$15"]
+17:"MetadataBoundary"
+18:I[83005,["$2","$3","$4","$5","$6"],"$17"]
+19:I[90905,["$2","$3","$4","$5","$6"],"IconMark"]
+:HL["/docs/_next/static/chunks/1cjkppsnvryw9.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
+d:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/docs/_next/static/chunks/1cjkppsnvryw9.css","precedence":"next"}],["$","script","script-0",{"src":"/docs/_next/static/chunks/1g-e1no979u0j.js","async":true}],["$","script","script-1",{"src":"/docs/_next/static/chunks/00yo_fpc5vnfa.js","async":true}],["$","script","script-2",{"src":"/docs/_next/static/chunks/1thrhe6a0e1ll.js","async":true}],["$","script","script-3",{"src":"/docs/_next/static/chunks/0ow65itc-517e.js","async":true}],["$","script","script-4",{"src":"/docs/_next/static/chunks/1b0eollcu1z4b.js","async":true}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-screen flex-col","children":["$","$L7",null,{"children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],[]]}]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"六同音游部 · 文档中心"}],["$","meta","1",{"name":"description","content":"厦门六中同安校区音游部文档中心：申请流程、管理公约与审核须知。"}],["$","link","2",{"rel":"icon","href":"/docs/hero.webp"}],["$","$L19","3",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"-T6qyQY2tmUZ3rhE2zw_V"}
+13:null
+c:300
+1c:true
+c:C
+1b:0
+e:"$undefined"
+b:"$undefined"
+1a:"$undefined"
+14:"$undefined"

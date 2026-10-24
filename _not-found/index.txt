@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"/docs/_next/static/chunks/1g-e1no979u0j.js"
+3:"/docs/_next/static/chunks/00yo_fpc5vnfa.js"
+4:"/docs/_next/static/chunks/1thrhe6a0e1ll.js"
+5:"/docs/_next/static/chunks/0ow65itc-517e.js"
+6:"/docs/_next/static/chunks/1b0eollcu1z4b.js"
+7:I[98117,["$2","$3","$4","$5","$6"],"Provider"]
+8:I[97440,["$2","$3","$4","$5","$6"],"default"]
+9:I[52474,["$2","$3","$4","$5","$6"],"default"]
+a:I[27971,["$2","$3","$4","$5","$6"],""]
+e:I[83005,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[83005,["$2","$3","$4","$5","$6"],"$11"]
+14:"MetadataBoundary"
+15:I[83005,["$2","$3","$4","$5","$6"],"$14"]
+17:I[69670,["$2","$3","$4","$5","$6"],"default",1]
+:HL["/docs/_next/static/chunks/1cjkppsnvryw9.css","style"]
+c:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+b:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/docs/_next/static/chunks/1cjkppsnvryw9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/docs/_next/static/chunks/1g-e1no979u0j.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/docs/_next/static/chunks/00yo_fpc5vnfa.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/docs/_next/static/chunks/1thrhe6a0e1ll.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/docs/_next/static/chunks/0ow65itc-517e.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/docs/_next/static/chunks/1b0eollcu1z4b.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-screen flex-col","children":["$","$L7",null,{"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/docs/_next/static/chunks/1cjkppsnvryw9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-T6qyQY2tmUZ3rhE2zw_V"}
+c:C
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[90905,["$2","$3","$4","$5","$6"],"IconMark"]
+10:null
+16:[["$","title","0",{"children":"六同音游部 · 文档中心"}],["$","meta","1",{"name":"description","content":"厦门六中同安校区音游部文档中心：申请流程、管理公约与审核须知。"}],["$","link","2",{"rel":"icon","href":"/docs/hero.webp"}],["$","$L18","3",{}]]

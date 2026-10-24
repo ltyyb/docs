@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:"/docs/_next/static/chunks/1g-e1no979u0j.js"
+3:"/docs/_next/static/chunks/00yo_fpc5vnfa.js"
+4:"/docs/_next/static/chunks/1thrhe6a0e1ll.js"
+5:"/docs/_next/static/chunks/0ow65itc-517e.js"
+6:"/docs/_next/static/chunks/1b0eollcu1z4b.js"
+7:I[98117,["$2","$3","$4","$5","$6"],"Provider"]
+8:I[97440,["$2","$3","$4","$5","$6"],"default"]
+9:I[52474,["$2","$3","$4","$5","$6"],"default"]
+a:I[27971,["$2","$3","$4","$5","$6"],""]
+e:"/docs/_next/static/chunks/298a5cxm7s4_1.js"
+f:"/docs/_next/static/chunks/2r5riommxz0x0.js"
+10:"/docs/_next/static/chunks/43ap-ws3jd8--.js"
+11:I[79298,["$2","$3","$4","$5","$6","$e","$f","$10"],"LayoutBody"]
+17:"/docs/_next/static/chunks/15zkd171svusz.js"
+18:"/docs/_next/static/chunks/1v6yabliyaewv.js"
+19:I[72608,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"DocsPage"]
+1a:I[72608,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"DocsTitle"]
+1b:I[72608,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"DocsDescription"]
+1c:I[72608,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"DocsBody"]
+1d:I[35266,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"Heading"]
+1e:I[57080,["$2","$3","$4","$5","$6","$e","$f","$10","$17","$18"],"default"]
+36:"ViewportBoundary"
+37:I[83005,["$2","$3","$4","$5","$6"],"$36"]
+38:"MetadataBoundary"
+39:I[83005,["$2","$3","$4","$5","$6"],"$38"]
+3a:"$Sreact.suspense"
+3b:I[90905,["$2","$3","$4","$5","$6"],"IconMark"]
+:HL["/docs/_next/static/chunks/1cjkppsnvryw9.css","style"]
+:HL["/docs/hero.webp","image"]
+c:X
+15:X
+15:C
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L19",null,{"toc":[{"depth":2,"url":"#1-阅读并同意管理公约","title":"1. 阅读并同意管理公约"},{"depth":2,"url":"#2-确保信息准确性","title":"2. 确保信息准确性"},{"depth":2,"url":"#3-保护问卷内容的机密性","title":"3. 保护问卷内容的机密性"},{"depth":2,"url":"#4-积极配合众审工作","title":"4. 积极配合众审工作"},{"depth":2,"url":"#5-审核收集数据","title":"5. 审核收集数据"},{"depth":2,"url":"#6-您的数据处理","title":"6. 您的数据处理"}],"tableOfContent":{"style":"clerk"},"children":[["$","$L1a",null,{"children":"审核须知（本校区）"}],["$","$L1b",null,{"children":"面向厦门六中同安校区学生的问卷审核须知。"}],["$","$L1c",null,{"children":[["$","p",null,{"children":["$","em",null,{"children":"V2.1.0 | by 厦门六中 (同安校区)音游部 管理组"}]}],"\n",["$","p",null,{"children":["$","em",null,{"children":["发布时间(GMT +08",":00","): 2026/3/21 17.30"]}]}],"\n",["$","$L1d",null,{"as":"h2","id":"1-阅读并同意管理公约","children":"1. 阅读并同意管理公约"}],"\n",["$","p",null,{"children":["参与审核、填写问卷、使用机器人相关功能即代表您已经充分阅读了解并同意 ",["$","$L1e",null,{"href":"/basic/management","children":"《厦门六中 (同安校区)音游部 管理公约》"}]," 。"]}],"\n",["$","$L1d",null,{"as":"h2","id":"2-确保信息准确性","children":"2. 确保信息准确性"}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"2.1"}]," 请务必保证审核问卷填写的信息与您的实际情况相符并且正确有效。"]}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"2.2"}]," 请勿造假您的信息尤其是基础信息以及音游经历，如发现造假嫌疑或行为，管理组有权拒绝您的申请并采取相应措施。"]}],"\n",["$","$L1d",null,{"as":"h2","id":"3-保护问卷内容的机密性","children":"3. 保护问卷内容的机密性"}],"\n",["$","p",null,{"children":"请勿在审核群内透露您自己填写的问卷内容。"}],"\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31"]}]]}],["$L32","$L33"],"$L34"]}],"p":"$@35","v":null,"s":"$c"}}]]
+13:[["children",{"s":{"n":"slug","t":"c","k":"basic/verify","s":["search-index.json"]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@14","v":"$15","s":"$c"},"c":"$Q16"}]]
+d:[["children",{"s":"(docs)","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/docs/_next/static/chunks/298a5cxm7s4_1.js","async":true}],["$","script","script-1",{"src":"/docs/_next/static/chunks/2r5riommxz0x0.js","async":true}],["$","script","script-2",{"src":"/docs/_next/static/chunks/43ap-ws3jd8--.js","async":true}]],["$","$L11",null,{"tree":{"type":"root","$ref":{"folder":"","meta":"meta.json"},"$id":"root","name":"文档中心","children":[{"$id":"index.md","type":"page","name":"文档首页","description":"查阅申请流程、管理公约与审核须知。","url":"/","$ref":"index.md"},{"$id":"get-started.md","type":"page","name":"审核流程","description":"从阅读条款到提交问卷，一步步加入六同音游部。","url":"/get-started","$ref":"get-started.md"},{"type":"folder","name":"基础条约","children":[{"$id":"basic/management.md","type":"page","name":"管理公约","description":"厦门六中（同安校区）音游部的管理目标、行为规范与处罚措施。","url":"/basic/management","$ref":"basic/management.md"},{"$id":"basic/verify.md","type":"page","name":"审核须知（本校区）","description":"面向厦门六中同安校区学生的问卷审核须知。","url":"/basic/verify","$ref":"basic/verify.md"},{"$id":"basic/verify-foreign.md","type":"page","name":"审核须知（非本校区）","description":"面向非本校区学生（含东渡校区）的问卷审核须知。","url":"/basic/verify-foreign","$ref":"basic/verify-foreign.md"}],"$id":"basic","$ref":{"folder":"basic","meta":"basic/meta.json"}}]},"tabs":[],"sidebar":{"defaultOpenLevel":2},"nav":{"title":["$","span",null,{"className":"brand","children":[["$","img",null,{"src":"/docs/hero.webp","alt":"","width":28,"height":28}],["$","span",null,{"children":["六同音游部",["$","span",null,{"className":"brand-caption","children":"文档中心"}]]}]]}],"url":"/"},"links":[],"themeSwitch":{"enabled":false},"githubUrl":"https://github.com/ltyyb/docs","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],[]]}]}]]}],"p":"$@12","v":null,"s":"$c"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/docs/_next/static/chunks/1cjkppsnvryw9.css","precedence":"next"}],["$","script","script-0",{"src":"/docs/_next/static/chunks/1g-e1no979u0j.js","async":true}],["$","script","script-1",{"src":"/docs/_next/static/chunks/00yo_fpc5vnfa.js","async":true}],["$","script","script-2",{"src":"/docs/_next/static/chunks/1thrhe6a0e1ll.js","async":true}],["$","script","script-3",{"src":"/docs/_next/static/chunks/0ow65itc-517e.js","async":true}],["$","script","script-4",{"src":"/docs/_next/static/chunks/1b0eollcu1z4b.js","async":true}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-screen flex-col","children":["$","$L7",null,{"children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","main",null,{"className":"not-found","children":[["$","p",null,{"className":"mono-label","children":"404 / NOT FOUND"}],["$","h1",null,{"children":"页面不存在"}],["$","p",null,{"children":"地址可能有误，或页面已经移动。"}],["$","$La",null,{"href":"/","className":"button button-primary","children":"返回首页"}]]}],[]]}]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L37",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L39",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$3a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"审核须知（本校区） | 六同音游部"}],["$","meta","1",{"name":"description","content":"面向厦门六中同安校区学生的问卷审核须知。"}],["$","link","2",{"rel":"icon","href":"/docs/hero.webp"}],["$","$L3b","3",{}]]}]}],null]}],null]}],"p":"$@3c","v":null,"s":"$c"}},"a":"$@3d","u":"$@3e","b":"-T6qyQY2tmUZ3rhE2zw_V"}
+3f:I[83005,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+1f:["$","$L1d",null,{"as":"h2","id":"4-积极配合众审工作","children":"4. 积极配合众审工作"}]
+20:["$","p",null,{"children":"为提升审核效率以及公平性考虑，本社群目前实行众审投票审核制度，您的问卷填写后将可能委托群内已认证用户进行众审。"}]
+21:["$","p",null,{"children":"但请放心，我们将积极保护您的隐私信息，您可以在审核通过后随时关闭您的问卷审阅权限，届时他人将无法再次查看您的原始问卷提交记录。"}]
+22:["$","p",null,{"children":[["$","strong",null,{"children":"4.1"}]," 您有义务如实回答参与众审群员在审核群中向您提出的问题 (如果有)。"]}]
+23:["$","p",null,{"children":[["$","strong",null,{"children":"4.2"}]," 如您对众审结果存在疑问，可随时在审核群中使用 ",["$","code",null,{"children":"/survey check"}]," 指令查看众审详细投票结果。该指令在您成为已认证用户后将失效。"]}]
+24:["$","p",null,{"children":[["$","strong",null,{"children":"4.3"}]," 如您对投票结果存在疑问，请私信技术管理员或群主。请勿在群中与任何人员产生争执或发表不良言行。"]}]
+25:["$","$L1d",null,{"as":"h2","id":"5-审核收集数据","children":"5. 审核收集数据"}]
+26:["$","p",null,{"children":"审核问卷将会收集以下信息，且这些信息是审核必要的："}]
+27:["$","ul",null,{"children":["\n",["$","li",null,{"children":"您的年段"}],"\n",["$","li",null,{"children":"您的班级"}],"\n",["$","li",null,{"children":"您的真实姓名"}],"\n",["$","li",null,{"children":"您的联系方式（QQ号）"}],"\n",["$","li",null,{"children":"您的音游经历、实力"}],"\n"]}]
+28:["$","$L1d",null,{"as":"h2","id":"6-您的数据处理","children":"6. 您的数据处理"}]
+29:["$","p",null,{"children":[["$","strong",null,{"children":"6.1"}]," 本音游部目前采用问卷众审的形式对您进行审核，您所填写的问卷内容将会提供给本音游部的所有正式成员以便于审核。"]}]
+2a:["$","p",null,{"children":[["$","strong",null,{"children":"6.2"}]," 本音游部问卷系统前后端均为自建，信息在组件间的传递均采用业界惯用 SSL/TLS 传输安全协议，保证信息传递安全。问卷信息将安全地存储在云端数据库中。"]}]
+2b:["$","p",null,{"children":[["$","strong",null,{"children":"6.3"}]," 在正式加入本音游部后，您可以随时使用在主群中使用 ",["$","code",null,{"children":"/survey disable"}]," 关闭他人对您提交问卷结果的审阅权限。届时他人将无法再次查看您的原始问卷提交。"]}]
+2c:["$","p",null,{"children":[["$","strong",null,{"children":"6.4"}]," 为提升审核效率，在您的问卷提交后，后台可能会将您的",["$","strong",null,{"children":"部分"}],"提交信息发送给 OpenAI 的相关模型以便生成 AI 见解。您可以查看 OpenAI 对数据的处理政策: ",["$","$L1e",null,{"href":"https://openai.com/zh-Hans-CN/policies/privacy-policy/","children":"OpenAI 隐私政策"}],"。以下是我们可能提供的信息:"]}]
+2d:["$","ul",null,{"children":["\n",["$","li",null,{"children":"您在 Part 2 (音乐游戏素养调查) 填写的内容"}],"\n",["$","li",null,{"children":"您在 Part 3 (成员素质保证) 填写的内容"}],"\n"]}]
+2e:["$","p",null,{"children":["$","strong",null,{"children":"我们绝对不会将您的个人信息 (如姓名、年段班级等) 透露给任何第三方平台。"}]}]
+2f:["$","p",null,{"children":[["$","strong",null,{"children":"6.5"}]," 如果您的审核未被通过，问卷结果将在保留 24 小时后自动删除。如果您已通过审核也希望彻底删除问卷提交记录，请私信管理员。"]}]
+30:["$","hr",null,{}]
+31:["$","p",null,{"children":["$","strong",null,{"children":"请您在填写审核问卷前仔细阅读以上须知，并确保您已理解并同意其中的内容。感谢您的配合与支持！祝您游玩愉快~ o(〃＾▽＾〃)o"}]}]
+32:["$","script","script-0",{"src":"/docs/_next/static/chunks/15zkd171svusz.js","async":true}]
+33:["$","script","script-1",{"src":"/docs/_next/static/chunks/1v6yabliyaewv.js","async":true}]
+34:["$","$L3f",null,{"children":["$","$3a",null,{"name":"Next.MetadataOutlet","children":"$@40"}]}]
+c:300
+40:null
+3e:true
+c:C
+3d:0
+14:"$undefined"
+12:"$undefined"
+b:"$undefined"
+3c:"$undefined"
+35:"$undefined"
