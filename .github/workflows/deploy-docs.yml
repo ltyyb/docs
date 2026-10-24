@@ -21,22 +21,22 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-
-
-      - name: 设置 Node.js
-        uses: actions/setup-node@v4
+      - name: 设置 pnpm 和 Node.js
+        uses: pnpm/setup@v3
         with:
-          node-version: 22
-          cache: npm
+          runtime: node@22
+          cache: true
+          cache-dependency-path: pnpm-lock.yaml
+          install: false
 
       - name: 安装依赖
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          npm run docs:build
+          pnpm run docs:build
           > docs/.vuepress/dist/.nojekyll
 
       - name: 部署文档
