@@ -5,20 +5,36 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build docs",
-    "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:dev": "vuepress dev docs",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:dev": "next dev",
+    "docs:clean-dev": "node scripts/clean.mjs && next dev",
+    "docs:build": "next build && node scripts/postbuild.mjs",
+    "docs:preview": "node scripts/preview.mjs",
+    "typecheck": "fumadocs-mdx && tsc --noEmit",
+    "check": "node scripts/check-build.mjs",
+    "postinstall": "fumadocs-mdx"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.31",
-    "@vuepress/theme-default": "2.0.0-rc.137",
-    "sass-embedded": "^1.106.1",
-    "vue": "^3.5.44",
-    "vuepress": "2.0.0-rc.31"
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/mdx": "^2.0.13",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "~5.9.3"
   },
   "engines": {
     "node": ">=22.18.0"
   },
-  "packageManager": "pnpm@12.15.0"
+  "packageManager": "pnpm@12.15.0",
+  "dependencies": {
+    "fumadocs-core": "16.17.8",
+    "fumadocs-mdx": "15.4.10",
+    "fumadocs-ui": "16.17.8",
+    "lucide-react": "1.61.0",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "^4.0.0",
+    "remark-directive": "4.0.0"
+  }
 }

@@ -1,47 +1,30 @@
-# VuePress 通用 .gitignore
-
-# Node modules
+# Dependencies
 /node_modules/
 
-# VuePress build & cache
-/.vuepress/dist/
-/docs/.vuepress/dist/
-/.vuepress/.temp/
-/docs/.vuepress/.temp/
-/.vuepress/cache/
-/docs/.vuepress/cache/
+# Next.js and Fumadocs
+/.next/
+/out/
+/.source/
+/next-env.d.ts
+*.tsbuildinfo
 
-# Environment files
+# Previous VuePress output
+/docs/.vuepress/
+
+# Local environment and logs
 .env
 .env.*.local
-.env.local
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
 *.log
 
 # OS and editor files
 .DS_Store
 Thumbs.db
 desktop.ini
+.vscode/
+.idea/
 *.swp
 *.swo
 
-# IDE folders
-.vscode/
-.idea/
-*.sublime-*
-
-# Lock files
-# package-lock.json
-# yarn.lock
-# pnpm-lock.yaml
-
-# Misc
-dist/
-coverage/
-temp/
-.cache/
+# Validation artifacts
+/artifacts/
+/coverage/
